@@ -1,5 +1,8 @@
 import { min,max } from "./maxMin.js";
 
+// ENCADEAMENTO --> Uma função como parametro para outra
+//              --> Ex.: mmc(min(a,b),max(a,b))
+
 // ACOPLAMENTO -> Dependencia entre funções
 //             -> Não desejável
 
