@@ -1,6 +1,9 @@
-import { countChar } from "./functions/strings/vogais.js";
+import { substring } from "./functions/strings.js";
 
-var string = 'homonimo', 
-    char = 'mn'
-    
-console.log(countChar(string,char));
+var string = 'O jorge nao sabe do que ta falando'
+
+try {
+    console.log(substring(string, 12));
+} catch (erro) {
+    console.log("Erro!!!",erro);
+}
