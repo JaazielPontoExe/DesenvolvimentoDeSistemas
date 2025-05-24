@@ -1,0 +1,15 @@
+/workspaces/ProgramacaoModular/C#/bin/Debug/net8.0/C#
+/workspaces/ProgramacaoModular/C#/bin/Debug/net8.0/C#.deps.json
+/workspaces/ProgramacaoModular/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/workspaces/ProgramacaoModular/C#/bin/Debug/net8.0/C#.dll
+/workspaces/ProgramacaoModular/C#/bin/Debug/net8.0/C#.pdb
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.sourcelink.json
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.dll
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/refint/C#.dll
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.pdb
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/workspaces/ProgramacaoModular/C#/obj/Debug/net8.0/ref/C#.dll
